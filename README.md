@@ -1,6 +1,2 @@
-# Bug bounty
-https://www.yeswehackBounty 
-Google
-HackerOne
-List of bug bounty
-Microsoft
+🔐 Securit
+https://github.com/paragonie/awesome-appsec#readme
